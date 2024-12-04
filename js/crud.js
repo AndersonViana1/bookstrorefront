@@ -1,10 +1,4 @@
-/**********************************************************************
- * Objetivo: Realizar a interação de cadastro, consulta, edição e 
- * exclusão de livros
- * Data:29/10/2024
- * Autor: Marcel
- * Versão: 1.0
- **********************************************************************/
+
 
 // Recebe do HTML o botão de salvar um novo livro
 const botaoSalvar = document.getElementById('salvar');
